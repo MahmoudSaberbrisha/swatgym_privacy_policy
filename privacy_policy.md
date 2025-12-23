@@ -1,8 +1,8 @@
-**Privacy Policy for SWA Gym Application**
+**Privacy Policy for SWAT Gym Application**
 
 **Last Updated: December 19, 2025**
 
-At SWA Gym, we value your privacy and are committed to protecting your personal information. This Privacy Policy explains how we collect, use, and safeguard your data when you use our application or visit our website at swatgym.metacodecx.com.
+At SWAT Gym, we value your privacy and are committed to protecting your personal information. This Privacy Policy explains how we collect, use, and safeguard your data when you use our application or visit our website at swatgym.metacodecx.com.
 
 ### 1. Information We Collect
 We may collect the following information:
@@ -29,7 +29,7 @@ We implement security measures, such as encryption and secure connections, to pr
 ### 5. Your Rights
 You have the right to:
 - Access, correct, or delete your personal information.
-- Contact us at [insert contact email, e.g., support@swatgym.metacodecx.com] to exercise your rights.
+- Contact us at [insert contact email, e.g., swatgym@metacodecx.com] to exercise your rights.
 
 ### 6. Changes to This Privacy Policy
 We may update this Privacy Policy from time to time. We will notify you of any significant changes via the application or email.
@@ -38,4 +38,3 @@ We may update this Privacy Policy from time to time. We will notify you of any s
 If you have any questions about this Privacy Policy, please contact us at:  
 [Insert contact email or details, e.g., info@swatgym.metacodecx.com]
 
-You can copy this text and customize it as needed (e.g., add a real contact email), then place it in your app or on the website. If you need any further adjustments or more details about SWA Gym's services, let me know!
